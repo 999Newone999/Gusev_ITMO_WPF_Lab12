@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gusev_ITMO_WPF_Lab12", "Gusev_ITMO_WPF_Lab12\Gusev_ITMO_WPF_Lab12.csproj", "{BDF22ABC-3DC4-42C8-92D9-C8369755DBE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF22ABC-3DC4-42C8-92D9-C8369755DBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF22ABC-3DC4-42C8-92D9-C8369755DBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF22ABC-3DC4-42C8-92D9-C8369755DBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF22ABC-3DC4-42C8-92D9-C8369755DBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
